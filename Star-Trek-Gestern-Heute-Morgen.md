@@ -13,7 +13,18 @@ Handgelenk öffnet sich der gülden schimmernde Deckel und gibt die
 Kontrollelemente darunter frei. Kirk spricht in den kleinen Apperat hinein und 
 seine Stimme ist an Bord des Rauschiffes Enterprise zu hören.
 
-Als diese Szene in der Episode _Das Letzte seiner Art_ am 8 September 1966
-uraufgefürt wird, werden vom Millitär bereits so gannente Walkie-talkies
-verwendet. Riesige klobige Geräte die Mithilfe von Radiowellen Sóldaten erlauben
-Instruktionen von ihren Vorgesetzten entgegen zu nehmen.
+Diese Szene aus der Episode _Das Letzte seiner Art_ am wird am 8 September 1966
+uraufgefürt. Zu dieser Zeit werden vom Millitär bereits so gannente
+Walkie-talkies verwendet. Riesige klobige Geräte die Mithilfe von Radiowellen 
+Soldaten erlauben Instruktionen von ihren Vorgesetzten entgegen zu nehmen.
+
+Im 22ten Jahrhundert, so stellte man sich vor, könnten diese zu kleinen 
+handlichen Objekten werden.
+
+Tatsächlich bringt der Hardwarehersteller Motorola 1996 bereits das Mobiltelefon
+_[StarTAC]_ heraus. Es passt in eine Hand und lässt sich ebenso wie der
+_Kommunikator_ aufklappen. Unter der Abdeckung befindet sich ein Tastenfeld und
+ein kleines Display.
+
+
+[StarTAC]: (http://www.pcworld.com/article/123950/the_50_greatest_gadgets_of_the_past_50_years.html?page=2#item6)
