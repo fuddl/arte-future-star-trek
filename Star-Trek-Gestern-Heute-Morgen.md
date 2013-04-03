@@ -1,6 +1,8 @@
 Star Trek: Gestern, Heute, Morgen...
 ====================================
 
+![Kommuniaktor](res/communicator.svg)
+
 Als Wah Ming Chang im frühling 1966 gebeten wurde für eine neue Fernsehserie 
 namens Star Trek, die Requisite eines Kommunikationsapperates des 22ten 
 Jahrhunderts an zu fertigen, konnte er nicht wissen, das eben dieses Gerät schon
@@ -16,7 +18,7 @@ seine Stimme ist an Bord des Rauschiffes Enterprise zu hören.
 Diese Szene aus der Episode _Das Letzte seiner Art_ am wird am 8 September 1966
 uraufgefürt. Zu dieser Zeit werden vom Millitär bereits so gannente
 Walkie-talkies verwendet. Riesige klobige Geräte die Mithilfe von Radiowellen 
-Soldaten erlauben Instruktionen von ihren Vorgesetzten entgegen zu nehmen.
+Soldaten erlauben Instruktionen von ihren Vorgesetzten entgegen zu nehmen. 
 
 Im 22ten Jahrhundert, so stellte man sich vor, könnten diese zu kleinen 
 handlichen Objekten werden.
