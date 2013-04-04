@@ -11,7 +11,7 @@ gegen Ende das 20ten Jahrhunderts zum Altag der westlichen Welt gehören sollte.
 __Sternzeit 1513,1:__ Captain Kirk und Doktor McCoy finden Besatzungsmitglied 
 Sturgeon auf dem verlassenen Planeten M-113 tod vor. Daraufhin zieht Kirk einen
 kleinen schwarzen Apparat aus seinem Holster. Mit einem Schwung aus dem 
-Handgelenk öffnet sich der gülden schimmernde Deckel und gibt die 
+Handgelenk öffnet sich der gülden schimmernde Deckel und gibt die  
 Kontrollelemente darunter frei. Kirk spricht in den kleinen Apperat hinein und 
 seine Stimme ist an Bord des Rauschiffes Enterprise zu hören.
 
@@ -29,4 +29,4 @@ _Kommunikator_ aufklappen. Unter der Abdeckung befindet sich ein Tastenfeld und
 ein kleines Display.
 
 
-[StarTAC]: (http://www.pcworld.com/article/123950/the_50_greatest_gadgets_of_the_past_50_years.html?page=2#item6)
+[StarTAC]: http://www.pcworld.com/article/123950/the_50_greatest_gadgets_of_the_past_50_years.html?page=2#item6
