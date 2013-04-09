@@ -1,5 +1,8 @@
-﻿Star Trek: Gestern, Heute, Morgen...
+﻿Star Trek: Gestern, Heute, Morgen…
 ====================================
+
+Kommunikator
+------------
 
 ![Kommuniaktor](res/communicator.svg)
 
@@ -15,7 +18,7 @@ Handgelenk öffnet sich der gülden schimmernde Deckel und gibt die
 Kontrollelemente darunter frei. Kirk spricht in den kleinen Apparat hinein und 
 seine Stimme ist an Bord des Rauschiffes Enterprise zu hören.
 
-Diese Szene aus der Episode _Das Letzte seiner Art_ wird am 8 September 1966
+Diese Szene aus der Episode _Das Letzte seiner Art_ wird am 8. September 1966
 uraufgefürt. Zu dieser Zeit werden vom Militär bereits so genannte
 Walkie-talkies verwendet: riesige, klobige Geräte, die mithilfe von Radiowellen 
 Soldaten erlauben, Instruktionen von ihren Vorgesetzten entgegen zu nehmen. 
@@ -29,3 +32,12 @@ _Kommunikator_ aufklappen. Unter der Abdeckung befindet sich ein Tastenfeld und
 ein kleines Display.
 
 [StarTAC]: http://www.pcworld.com/article/123950/the_50_greatest_gadgets_of_the_past_50_years.html?page=2#item6
+
+Replikator
+----------
+
+__Sternzeit 41986,0:__ L.Q. „Sonny“ Clemonds staunt nicht schlecht, als er aufwacht. 1994 hat er sich einfrieren und ins Weltall schießen lassen, jetzt ist er im Jahre 2364 an Bord des Raumschiffs Enterprise wieder erwacht. Und dort muss er auf nichts verzichten, das er aus seinem alten Leben kennt. Der Androide Data führt ihm zu einer unscheinbaren Luke in der Wand, in der vor Sonnys Augen aus dem Nichts der beste Martini erscheint, den Sonny je getrunken hat. Als dieses „Replikator“ genannte Wundergerät ihm dann auch noch eine Gitarre beschaffen kann, ist Sonny wunschlos glücklich.
+
+Sonnys Erlebnisse in der Zukunft entstammen der Episode _Die Neutrale Zone_, die erstmals am 16. Mai 1988 als Teil der Serie _Star Trek: Das nächste Jahrhundert_ ausgestrahlt wurde. Schon in den 1960er-Jahren begegnet der Zuschauer in _Star Trek_ Nahrungsverteilern, die jedes gewünschte Gericht in Sekunden zubereiten. Das Kochen wird uns heute noch nicht abgenommen, aber so genannte 3D-Drucker sind in den letzten Jahren nicht nur immer leistungsfähiger, sondern auch immer billiger geworden. Nach Meinung Vieler stehen sie kurz davor, Alltagsgeräte zu werden. Und die [Gittare zum Ausdrucken] gibt es schon heute.
+
+[Gitarre zum Ausdrucken]: http://createdigitalmusic.com/2012/10/six-3d-printed-musical-instruments-and-what-3d-printing-could-do-for-musicians/
