@@ -1,4 +1,4 @@
-Star Trek: Gestern, Heute, Morgen...
+﻿Star Trek: Gestern, Heute, Morgen...
 ====================================
 
 ![Kommuniaktor](res/communicator.svg)
@@ -28,5 +28,6 @@ _[StarTAC]_ heraus. Es passt in eine Hand und lässt sich ebenso wie der
 _Kommunikator_ aufklappen. Unter der Abdeckung befindet sich ein Tastenfeld und
 ein kleines Display.
 
+TEST
 
 [StarTAC]: http://www.pcworld.com/article/123950/the_50_greatest_gadgets_of_the_past_50_years.html?page=2#item6
