@@ -1,4 +1,4 @@
-﻿Star Trek: Gestern, Heute, Morgen…
+Star Trek: Gestern, Heute, Morgen…
 ====================================
 
 Kommunikator
@@ -48,3 +48,5 @@ Das Kochen wird uns heute noch nicht abgenommen, aber so genannte 3D-Drucker sin
 
 Vom P.A.D.D zum iPad
 --------------------
+
+![PADD](res/padd.svg)
