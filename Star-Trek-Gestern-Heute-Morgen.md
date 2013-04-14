@@ -40,4 +40,11 @@ Replikator
 
 __Sternzeit 41986,0:__ L.Q. „Sonny“ Clemonds staunt nicht schlecht, als er aufwacht. 1994 hat er sich einfrieren und ins Weltall schießen lassen, jetzt ist er im Jahre 2364 an Bord des Raumschiffs Enterprise wieder erwacht. Und dort muss er auf nichts verzichten, das er aus seinem alten Leben kennt. Der Androide Data führt ihm zu einer unscheinbaren Luke in der Wand, in der vor Sonnys Augen aus dem Nichts der beste Martini erscheint, den Sonny je getrunken hat. Als dieses „Replikator“ genannte Wundergerät ihm dann auch noch eine Gitarre beschaffen kann, ist Sonny wunschlos glücklich.
 
-Sonnys Erlebnisse in der Zukunft entstammen der Episode _Die Neutrale Zone_, die erstmals am 16. Mai 1988 als Teil der Serie _Star Trek: Das nächste Jahrhundert_ ausgestrahlt wurde. Schon in den 1960er-Jahren begegnet der Zuschauer in _Star Trek_ Nahrungsverteilern, die jedes gewünschte Gericht in Sekunden zubereiten. Das Kochen wird uns heute noch nicht abgenommen, aber so genannte 3D-Drucker sind in den letzten Jahren nicht nur immer leistungsfähiger, sondern auch immer billiger geworden. Nach Meinung Vieler stehen sie kurz davor, Alltagsgeräte zu werden. Und die [Gittare zum Ausdrucken](http://createdigitalmusic.com/2012/10/six-3d-printed-musical-instruments-and-what-3d-printing-could-do-for-musicians/) gibt es schon heute.
+Sonnys Erlebnisse in der Zukunft entstammen der Episode _Die Neutrale Zone_, die erstmals am 16. Mai 1988 als Teil der Serie _Star Trek: Das nächste Jahrhundert_ ausgestrahlt wurde. Im September 2012 stellt MakerBot Industries bereits seine dritte Inkernation eines *3D-Druckers* -- ironischerweise unter dem namen *Replicator2* -- vor. Das Gerät kann jedoch bisher nur schwerbekömmbliches Plastik in beihnahe jede beliebige Form bringen.
+
+Tatsächlich macht diese Technologie heute besonders in der heutigen Raumfahrt Sinn: Mit einem 3D-Drucker lassen sich Ersatzteile flexibel nach Bedarf erzeugen, die ansonsten wertvollen Stauraum vergeuden würden.
+
+Das Kochen wird uns heute noch nicht abgenommen, aber so genannte 3D-Drucker sind in den letzten Jahren nicht nur immer leistungsfähiger, sondern auch immer billiger geworden. Nach Meinung Vieler stehen sie kurz davor, Alltagsgeräte zu werden. Und die [Gittare zum Ausdrucken](http://createdigitalmusic.com/2012/10/six-3d-printed-musical-instruments-and-what-3d-printing-could-do-for-musicians/) gibt es schon heute.
+
+Vom P.A.D.D zum iPad
+--------------------
