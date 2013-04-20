@@ -60,11 +60,33 @@ ungeeignet, in Design und Funktion jedoch seit den '60ern bereit für die Zukunf
 Datenspeicher
 -------------
 
-Anfang der 1960er-Jahre war es keine Kleinigkeit, Daten zu speichern oder gar von einem Computer auf einen anderen zu übertragen. Die teilweise noch immer im Einsatz befindlichen Lochkarten boten nur sehr wenig Speicherplatz, und die ersten Festplatten waren schrankgroße Kästen. Magnetbänder waren die am weitesten verbreitete, weil handlichste Möglichkeit, größere Mengen Daten zu speichern und zu übertragen.
+Anfang der 1960er-Jahre war es keine Kleinigkeit, Daten zu speichern oder gar
+von einem Computer auf einen anderen zu übertragen. Die teilweise noch immer im
+Einsatz befindlichen Lochkarten boten nur sehr wenig Speicherplatz, und die
+ersten Festplatten waren schrankgroße Kästen. Magnetbänder waren die am
+weitesten verbreitete, weil handlichste Möglichkeit, größere Mengen Daten zu
+speichern und zu übertragen.
 
-Kein Wunder also, dass in der ersten _Star-Trek_-Serie Computer zumindest dem Namen nach mit _Speicherbändern_ arbeiten. Die so genannten _Micro Tapes_ haben jedoch wenig Ähnlichkeit mit den großen Magnetspeicherbändern der zeitgleichen Realität. Die stabilen, bunten Plastikplättchen im Scheckkartenformat, die man zur Benutzung einfach in einen passgenauen Schlitz am Computer schieben muss, erinnern viel mehr an Floppy-Disketten – doch die erste Floppy Disk kommt erst 1969 auf den Markt, als bereits die letzte Folge der ersten _Star-Trek_-Serie über die Bildschirme geflimmert ist.
+Kein Wunder also, dass in der ersten _Star-Trek_-Serie Computer zumindest dem
+Namen nach mit _Speicherbändern_ arbeiten. Die so genannten _Micro Tapes_ haben
+jedoch wenig Ähnlichkeit mit den großen Magnetspeicherbändern der zeitgleichen
+Realität. Die stabilen, bunten Plastikplättchen im Scheckkartenformat, die man
+zur Benutzung einfach in einen passgenauen Schlitz am Computer schieben muss,
+erinnern viel mehr an Floppy-Disketten – doch die erste Floppy Disk kommt erst
+1969 auf den Markt, als bereits die letzte Folge der ersten _Star-Trek_-Serie
+über die Bildschirme geflimmert ist.
 
-_Star Trek_ war in Sachen Datenspeicherung der Realität also von Anfang an voraus, und blieb es auch. In späteren Filmen und Serien werden die Speicherbänder erst durch so genannte _Isolineare Chips_ und dann durch _Isolineare Speicherstäbe_ ersetzt. Das Prinzip bleibt dasselbe: In beiden Fällen handelt es sich um stabile, handliche Stäbchen, auf denen man bequem große Mengen von Daten aufbewahren und transportieren kann und die jederzeit einfach in jeden Computer gesteckt werden können, um auf die Daten zuzugreifen. Sie erinnern äußerlich und in der Benutzung frappierend an die USB-Speichersticks, die heutzutage jeder täglich benutzt. Der erste USB-Speicherstick kommt übrigens erst 2000 auf den Markt – und wird von einem Unternehmen namens _[Trek Technology]_ hergestellt!
+_Star Trek_ war in Sachen Datenspeicherung der Realität also von Anfang an
+voraus, und blieb es auch. In späteren Filmen und Serien werden die
+Speicherbänder erst durch so genannte _Isolineare Chips_ und dann durch
+_Isolineare Speicherstäbe_ ersetzt. Das Prinzip bleibt dasselbe: In beiden
+Fällen handelt es sich um stabile, handliche Stäbchen, auf denen man bequem
+große Mengen von Daten aufbewahren und transportieren kann und die jederzeit
+einfach in jeden Computer gesteckt werden können, um auf die Daten zuzugreifen.
+Sie erinnern äußerlich und in der Benutzung frappierend an die
+USB-Speichersticks, die heutzutage jeder täglich benutzt. Der erste
+USB-Speicherstick kommt übrigens erst 2000 auf den Markt – und wird von einem
+Unternehmen namens _[Trek Technology]_ hergestellt!
 
 [Trek Technology]: http://travel.cnn.com/singapore/shop/5-best-tech-inventions-singapore-rocked-our-world-423291
 
