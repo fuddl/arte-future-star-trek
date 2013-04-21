@@ -8,14 +8,14 @@ das in einer Science-Fiction-Fernsehserie, die im 24. Jahrhundert spielt, als
 Requisit verwendet werden sollte. Es handelte sich um ein flaches Tablet mit einem
 berühungsempfindlichen Bildschirm, das seinem Benutzer das Erledigen
 verschiedener Arbeiten ermöglicht, vor allem aber zum Lesen genutzt wird. Auf
-seiner Rückseite befindet sich ein kleiner Aufkleber mit der Berschriftung
+seiner Rückseite befindet sich ein kleiner Aufkleber mit der Beschriftung
 *P.A.D.D.*: ein Akronym für *Personal Access Display Device* (engl.
 persönliches Zugangs- und Anzeigegerät) – gleichzeitig eine Anspielung auf das
 Wort *pad* (engl. Notizblock).
 
 Die digitalen Notizbücher wurden das erste Mal 1993 Realität in Form von so
-genannten PDAs (engl: Personal Digital Assistent), welche im Laufe der Jahre mit
-Mobiltelefonen verschmolzen bis 2010 das iPad vorgestellt wird, welches dem 23 Jahre
+genannten PDAs (engl: *Personal Digital Assistent*), welche im Laufe der Jahre mit
+Mobiltelefonen verschmolzen, bis 2010 das iPad vorgestellt wird, welches dem 23 Jahre
 zuvor erdachten Gerät in Aussehen und Funktion schon ziemlich nahe kommt. Bei
 genauerem Hinsehen ist die Ähnlichkeit zwischen der Fiktion der '80er und der
 Realität von heute nur die *Spitze des Eisbergs*…
@@ -46,7 +46,7 @@ Soldaten erlauben, Instruktionen von ihren Vorgesetzten entgegen zu nehmen.
 Im 22ten Jahrhundert, so stellte man sich vor, könnten diese zu kleinen,
 handlichen Objekten werden.
 
-Tatsächlich bringt der Hardwarehersteller Motorola 1996 bereits das Mobiltelefon
+Tatsächlich bringt der Hardware-Hersteller Motorola 1996 bereits das Mobiltelefon
 _[StarTAC]_ heraus. Es passt in eine Hand und lässt sich ebenso wie der
 _Kommunikator_ aufklappen. Unter der Abdeckung befindet sich ein Tastenfeld und
 ein kleines Display.
@@ -60,7 +60,7 @@ ungeeignet, in Design und Funktion jedoch seit den '60ern bereit für die Zukunf
 Datenspeicher
 -------------
 
-Anfang der 1960er-Jahre war es keine Kleinigkeit, Daten zu speichern oder gar
+Anfang der 1960er-Jahre war es keine Kleinigkeit Daten zu speichern oder gar
 von einem Computer auf einen anderen zu übertragen. Die teilweise noch immer im
 Einsatz befindlichen Lochkarten boten nur sehr wenig Speicherplatz, und die
 ersten Festplatten waren schrankgroße Kästen. Magnetbänder waren die am
@@ -95,11 +95,11 @@ Replikator
 
 ![Replikator](res/replicator2.svg)
 
-__Sternzeit 41986,0:__ L.Q. „Sonny“ Clemonds staunt nicht schlecht, als er
+__Sternzeit 41986,0:__ L.Q. „Sonny“ Clemonds staunt nicht schlecht als er
 aufwacht. 1994 hat er sich einfrieren und ins Weltall schießen lassen, jetzt ist
 er im Jahre 2364 an Bord des Raumschiffs *Enterprise* wieder erwacht. Und dort
 muss er auf nichts verzichten, das er aus seinem alten Leben kennt. Man führt
-ihm zu einer unscheinbaren Luke in der Wand, in der vor Sonnys Augen aus dem
+ihn zu einer unscheinbaren Luke in der Wand, in der vor Sonnys Augen aus dem
 Nichts der beste Martini erscheint, den Sonny je getrunken hat. Als dieses
 „Replikator“ genannte Wundergerät ihm dann auch noch eine Gitarre beschaffen
 kann, ist Sonny wunschlos glücklich.
@@ -107,8 +107,8 @@ kann, ist Sonny wunschlos glücklich.
 Sonnys Erlebnisse in der Zukunft entstammen der Episode _Die Neutrale Zone_, die
 erstmals am 16. Mai 1988 als Teil der Serie _Star Trek: Das nächste Jahrhundert_
  ausgestrahlt wurde. Im September 2012 stellt MakerBot Industries bereits seine
-dritte Inkarnation eines *3D-Druckers* -- ironischerweise unter dem Namen
-*Replicator2* -- vor. Das Gerät kann jedoch bisher nur schwerbekömmliches
+dritte Inkarnation eines *3D-Druckers* – ironischerweise unter dem Namen
+*Replicator2* – vor. Das Gerät kann jedoch bisher nur schwerbekömmliches
 Plastik in beinahe jede beliebige Form bringen.
 
 Tatsächlich macht diese Technologie heute besonders in der Raumfahrt Sinn: Mit
@@ -118,6 +118,6 @@ ansonsten wertvollen Stauraum vergeuden würden.
 Das Kochen wird uns heute noch nicht abgenommen, aber so genannte 3D-Drucker
 sind in den letzten Jahren nicht nur immer leistungsfähiger, sondern auch immer
 billiger geworden. Nach Meinung Vieler stehen sie kurz davor, Alltagsgeräte zu
-werden. Und die [Gittare zum Ausdrucken] gibt es schon heute.
+werden. Und die [Gitarre zum Ausdrucken] gibt es schon heute.
 
-[Gittare zum Ausdrucken]: http://createdigitalmusic.com/2012/10/six-3d-printed-musical-instruments-and-what-3d-printing-could-do-for-musicians/
+[Gitarre zum Ausdrucken]: http://createdigitalmusic.com/2012/10/six-3d-printed-musical-instruments-and-what-3d-printing-could-do-for-musicians/
