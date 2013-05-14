@@ -4,7 +4,7 @@ Star Trek: Gestern, Heute, Morgen…
 ![PADD](res/padd.svg)
 
 1987 entwarf der Illustrator und Produktionsdesigner Rick Sternbach ein Gerät,
-das in einer Science-Fiction-Fernsehserie, die im 24. Jahrhundert spielt, als
+das in einer Science-Fiction-Fernsehserie *Star Trek: The Next Generation*, die im 24. Jahrhundert spielt, als
 Requisit verwendet werden sollte. Es handelte sich um ein flaches Tablet mit einem
 berühungsempfindlichen Bildschirm, das seinem Benutzer das Erledigen
 verschiedener Arbeiten ermöglicht, vor allem aber zum Lesen genutzt wird. Auf
